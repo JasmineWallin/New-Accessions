@@ -1,0 +1,93 @@
+{
+    "suppressed": false,
+    "title": "",
+    "display_string": "",
+    "publish": false,
+    "content_description": "",
+    "condition_description": "",
+    "provenance": "",
+    "accession_date": "",
+    "restrictions_apply": false,
+    "access_restrictions": false,
+    "use_restrictions": false,
+    "created_by": "scuaapi",
+    "last_modified_by": "scuaapi",
+    "create_time": "",
+    "system_mtime": "",
+    "user_mtime": "",
+    "is_slug_auto": false,
+    "id_0": "",
+    "id_1": "",
+    "id_2": "",
+    "general_note": "",
+    "acquisition_type": "",
+    "resource_type": "",
+    "jsonmodel_type": "accession",
+    "external_ids": [],
+    "related_accessions": [],
+    "classifications": [],
+    "subjects": [],
+    "linked_events": [],
+    "extents": [
+        {
+            "lock_version": 0,
+            "number": "",
+            "container_summary": "",
+            "physical_details": "",
+            "created_by": "scuaapi",
+            "last_modified_by": "scuaapi",
+            "create_time": "",
+            "system_mtime": "",
+            "user_mtime": "",
+            "portion": "",
+            "extent_type": "",
+            "jsonmodel_type": "extent"
+        }
+    ],
+    "lang_materials": [],
+    "dates": [
+        {
+            "lock_version": 0,
+            "expression": "",
+            "begin": "",
+            "end": "",
+            "created_by": "scuaapi",
+            "last_modified_by": "scuaapi",
+            "create_time": "",
+            "system_mtime": "",
+            "user_mtime": "",
+            "date_type": "",
+            "label": "creation",
+            "jsonmodel_type": "date"
+        }
+    ],
+    "external_documents": [],
+    "rights_statements": [],
+    "deaccessions": [],
+    "related_resources": [],
+    "component_links": [],
+    "linked_agents": [],
+    "instances": [],
+    "metadata_rights_declarations": [],
+    "uri": "",
+    "repository": {
+        "ref": "/repositories/2"
+    },
+    "collection_management": {
+        "lock_version": 0,
+        "rights_determined": false,
+        "created_by": "scuaapi",
+        "last_modified_by": "scuaapi",
+        "create_time": "",
+        "system_mtime": "",
+        "user_mtime": "",
+        "processing_status": "Unprocessed",
+        "jsonmodel_type": "collection_management",
+        "external_ids": [],
+        "uri": "",
+        "repository": {
+            "ref": "/repositories/2"
+        },
+        "parent": {}
+    }
+}
